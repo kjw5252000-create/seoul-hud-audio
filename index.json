@@ -1,0 +1,158 @@
+{
+ "png": "s.png",
+ "magic": "SEO1",
+ "width": 512,
+ "height": 50,
+ "bytes": 67876,
+ "clips": 27,
+ "groups": [
+  "deposit",
+  "doorlock",
+  "heart",
+  "open",
+  "pay",
+  "snap",
+  "tab",
+  "toast",
+  "zentalk"
+ ],
+ "f": {
+  "deposit_1": [
+   0,
+   3024
+  ],
+  "deposit_2": [
+   3024,
+   4320
+  ],
+  "deposit_3": [
+   7344,
+   4752
+  ],
+  "doorlock_1": [
+   12096,
+   8424
+  ],
+  "doorlock_2": [
+   20520,
+   5184
+  ],
+  "doorlock_3": [
+   25704,
+   4752
+  ],
+  "heart_1": [
+   30456,
+   4104
+  ],
+  "heart_2": [
+   34560,
+   4104
+  ],
+  "heart_3": [
+   38664,
+   3672
+  ],
+  "open_1": [
+   42336,
+   1728
+  ],
+  "open_2": [
+   44064,
+   2160
+  ],
+  "open_3": [
+   46224,
+   1728
+  ],
+  "pay_1": [
+   47952,
+   2160
+  ],
+  "pay_2": [
+   50112,
+   1728
+  ],
+  "pay_3": [
+   51840,
+   1728
+  ],
+  "snap_1": [
+   53568,
+   2160
+  ],
+  "snap_2": [
+   55728,
+   1728
+  ],
+  "snap_3": [
+   57456,
+   2160
+  ],
+  "tab_1": [
+   59616,
+   864
+  ],
+  "tab_2": [
+   60480,
+   648
+  ],
+  "tab_3": [
+   61128,
+   864
+  ],
+  "toast_1": [
+   61992,
+   1080
+  ],
+  "toast_2": [
+   63072,
+   1728
+  ],
+  "toast_3": [
+   64800,
+   1080
+  ],
+  "zentalk_1": [
+   65880,
+   3024
+  ],
+  "zentalk_2": [
+   68904,
+   3024
+  ],
+  "zentalk_3": [
+   71928,
+   3240
+  ]
+ },
+ "sha256": {
+  "deposit_1": "7e8d995a00b3c644de4b36cd1a77c70d44a015e28c38e173fb03484d53212712",
+  "deposit_2": "35319727b4b12294e1c84f2997f506fd57256228a593fd0c512daa47359f50b9",
+  "deposit_3": "4a0329a842b33052d235071e809bbff498c3f28f3a645d967746fff994f07cd2",
+  "doorlock_1": "49566abaede5253f87678f225aa714f425ad1e13caad5ffb0448e4570f95c6f1",
+  "doorlock_2": "90e23105d950e9270f231867f256b9ce9e2ba0c625b5546ff9b24aa36fb99e11",
+  "doorlock_3": "314b099d9f6a46dd8abb396d876347c1fe81e353d3bf46d940d0c675864c3889",
+  "heart_1": "03dae691abe1d0694d4f22f0c7080395c1a6ffb861d76093408b5611ee1f2236",
+  "heart_2": "6eef889824f4c5060d6d2aa92fc43e3b44fc32c1ddf03900e14ef7e1a1812062",
+  "heart_3": "3056757de602927492ae8a9ac70239a7b05d266b8c99eaf6049269128f8aedf7",
+  "open_1": "77f6b3242868609439db684e5d1009f442b6ed8ecde74b52856d7189b79e9291",
+  "open_2": "69a784f05f4bb8221c9a1600e9785bf0994dfbda69e6eb8c6865c2e6fc44a390",
+  "open_3": "de48d7654fdf69397aa9e8661bfc63944231c7398bba49d852d5d35b1ef9cbbd",
+  "pay_1": "8eb87871b57951e1dbf40f0392acc9cf05c93f8d91a5dca32de8b1245f7535d2",
+  "pay_2": "19b3e2a325f683c7c1e92f3156c9aa876363335f3835d71aca97d877f96afc61",
+  "pay_3": "a54ebe2cd92027e57e4dcde800cc6b3e34139cc0d7e030c1bf68d8f02d98a0e6",
+  "snap_1": "b72ba674db27f0bcae58f12e951ee957026905be7365329d329d2225d7e64524",
+  "snap_2": "ea54a8df1fecf18f0505f4df0551dac3d9ddf5c2533ad26ae2396b269b0c7a24",
+  "snap_3": "f1a8e3e1a78e79afca04febfdce53f3b6d6b71d670b175c594f4420b918e143c",
+  "tab_1": "3d4e23814baa2cb050724f066fe9000d43cf5836d4492a64555ec343c67beba7",
+  "tab_2": "6f70ca960e5dc4759963e9e9cc209b61339c0538d1118cd475dc280d68e4c0be",
+  "tab_3": "6c96bab65f66d026460ac92e59bcb41eba22b9654ceb3760bf51eb1055027ea1",
+  "toast_1": "9ca9426955112031eb57689f6f935c05c4669bd99aeda2f492fc2f8bc4955dab",
+  "toast_2": "5010c6d0a9becb0a127f56e36a7c9568bad5e0a60818549bc8b34e100a30d285",
+  "toast_3": "3ebf880c80080019d97027cbcf0d388eb8e139798ccc92a3410e96ecb5d1bc99",
+  "zentalk_1": "329d6177ad85a943c6cb449ea72cc1a815c915083371b695412c2c544d5d24f2",
+  "zentalk_2": "28e0f566ba634f84aedee45121f82963b25c4b3c65ca5bdb90cc1ab2530671ae",
+  "zentalk_3": "f3ec6897e0c0179c06fbaa1a9f2cded56ece81338db6b6ed1f0402b48dde77c5"
+ }
+}
